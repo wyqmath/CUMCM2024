@@ -1,0 +1,1 @@
+The code used for Contemporary Undergraduate Mathematical Contest in Modeling - 2024 (CUMCM-2024)
